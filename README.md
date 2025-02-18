@@ -6,7 +6,7 @@ program prompt for the number of credits at pass, defer and fail and then displa
 progression outcome for an individual student.
 
 
-
-
-
 ![image](https://github.com/user-attachments/assets/0a6ae54b-da57-4f66-96d3-9afca30ecaa4)
+
+
+![image](https://github.com/user-attachments/assets/ffb221b5-73c4-4884-824c-f65d519af42b)
